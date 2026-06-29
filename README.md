@@ -1,5 +1,12 @@
 # Food Delivery App
 
+Admin URL
+https://food-delivery-admin-gdmu.onrender.com
+
+Backend URL
+https://food-delivery-app-r3oh.onrender.com
+
+
 A full-stack food delivery website built using:
 
 - React.js
